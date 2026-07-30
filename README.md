@@ -5,6 +5,7 @@ I'm an **Enterprise AI Solutions Architect** with 14+ years of experience buildi
 My recent work spans **real-time Voice AI** (composable STT–LLM–TTS pipelines, multimodal conversational agents), **multi-agent orchestration** (MCP, LangGraph, coordinator-led delivery frameworks), **retrieval-augmented generation**, and **agent evaluation and governance** — deployed across AWS, Azure, and NVIDIA AI platforms.
 
 👯 Looking to collaborate on agentic AI systems, Voice AI architecture, RAG pipelines, and MCP-based tool integration
+
 💬 Ask me about multi-agent orchestration, Voice AI, retrieval-augmented generation, agent evaluation frameworks, or NVIDIA/AWS/Azure AI platforms
 
 ## What I'm working on
